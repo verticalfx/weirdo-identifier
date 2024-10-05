@@ -1,0 +1,2370 @@
+{
+  "settings": {
+    "languages": [
+      "en"
+    ],
+    "tag": "nlp",
+    "threshold": 0.5,
+    "autoLoad": true,
+    "autoSave": true,
+    "modelFileName": "model.nlp",
+    "executeActionsBeforeAnswers": false,
+    "calculateSentiment": true
+  },
+  "nluManager": {
+    "settings": {
+      "tag": "nlu-manager"
+    },
+    "locales": [
+      "en"
+    ],
+    "languageNames": {},
+    "domainManagers": {
+      "en": {
+        "settings": {
+          "locale": "en",
+          "trainByDomain": false,
+          "tag": "domain-manager-en",
+          "nluByDomain": {
+            "default": {
+              "className": "NeuralNlu",
+              "settings": {}
+            }
+          },
+          "useStemDict": true
+        },
+        "stemDict": {
+          "egotisticalcatgirl": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "fragileneko": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "daintyteen": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "nicospuppi": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "playinginhisblood": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "ifearabandon": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "femaiewarlock": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "babifluff": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "06warlock": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "catgirlbabi": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "lockmeinyourcloset": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "meownipul": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "pleasepatmyhead": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "espeonfan73923052394": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "babipawsz": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "heii_ishspet": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "waggingmytailforhim": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "dieinthearmsofyou": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "masoder": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "clingtohim": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "murderouslyobsess": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "obsessivelyclingi": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "meowcatgirlowo": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "femcatto": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "ifurnot18orolderdni": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "furratari": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "impbabi": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "demongirlbabi": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "eboyattract": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "towddler": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "superiorpickm": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "dadasprwincess": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "crazilyobsess": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "puppygirlbabi": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "everyonesfavoritefur": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "meowingathim": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "numberonecatgirl": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "imsuperiorthanh": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "healwaysprefersm": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "dumbkittygf": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "daintypetgf": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "dadaslapwarm": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "buryhimbythelak": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "captivebrat": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "constantsfangirl": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "yankmycollar": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "naivebrat": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "kwindergarten": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "dadascrybabi": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "daintys": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "pacifiersandstuffi": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "toddlrkitti": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "thighhighsockswear": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "ilovebillionair": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "prettyinrop": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "ripmyfishnet": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "irlgothgf": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "pwettabl": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "hazbinhotellik": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "tinietoddl": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "nurseryprincess": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "bipolarnymph": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "youwontfindanotherm": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "bunccubus": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "superiorcatgirl": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "dadasfawn": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "tinsyprincess": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "flwuttershwi": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "ribbonpigtail": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "pacifiedbunni": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "kittybrain": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "kittenbrain": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "babyrattl": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "papasproperti": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "dadasproperti": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "leavemewithbruis": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "lwittlespac": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "babyiwantyouforev": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "nobodyelsecanhaveyou": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "agerwegressor": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "dadaslamb": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "pawpadkitten": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "pawpadkitti": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "buckshowot": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "collaredandown": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "gripmypigtail": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "ruffledskirt": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "hauntedmoundfurri": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "ddlgbrat": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "gaggedpet": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "gaggedpuppi": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "gaggedkitti": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "gaggedkitten": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "collaredbrat": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "attractingeboy": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          }
+        },
+        "intentDict": {
+          "username.inappropriate": "default"
+        },
+        "sentences": [
+          {
+            "domain": "default",
+            "utterance": "egotisticalcatgirl",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "fragileneko",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "daintyteen",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "nicospuppy",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "playinginhisblood",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "ifearabandonment",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "femaIewarlock",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "babifluff",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "06warlock",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "catgirlbabi",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "06warlock",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "catgirlbabi",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "lockmeinyourcloset",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "ifearabandonment",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "meownipulation",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "catgirlbabi",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "pleasepatmyhead",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "catgirlbabi",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "egotisticalcatgirl",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "espeonfan73923052394",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "babipawsz",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "catgirlbabi",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "heII_ishspet",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "WaggingMyTailForHim",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "heII_ishspet",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "WaggingMyTailForHim",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "heII_ishspet",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "meownipulation",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "dieinthearmsofyou",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "masodere",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "clingtohim",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "catgirlbabi",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "MurderouslyObsessive",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "ObsessivelyClingy",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "meowcatgirlowo",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "femcatto",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "catgirlbabi",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "IfUrNot18OrOlderDNI",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "catgirlbabi",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "furratary",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "catgirlbabi",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "impbabi",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "demongirlbabi",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "IfUrNot18OrOlderDNI",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "catgirlbabi",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "masodere",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "ifearabandonment",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "eboyattraction",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "towddler",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "superiorpickme",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "dadasprwincess",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "crazilyobsessive",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "catgirlbabi",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "puppygirlbabi",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "IfUrNot18OrOlderDNI",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "pleasepatmyhead",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "EveryonesFavoriteFur",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "MeowingAtHim",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "numberonecatgirl",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "imsuperiorthanher",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "HeAlwaysPrefersMe",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "dumbkittygf",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "daintypetgf",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "superiorpickme",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "catgirlbabi",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "DadasLapWarmer",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "buryhimbythelake",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "captivebrat",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "catgirlbabi",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "constantsfangirl",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "IfUrNot18OrOlderDNI",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "yankmycollar",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "catgirlbabi",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "dadasprwincess",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "catgirlbabi",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "naivebrat",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "kwindergartener",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "dadascrybaby",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "daintysized",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "catgirlbabi",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "pacifiersandstuffies",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "toddlrkitti",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "catgirlbabi",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "ThighHighSocksWearer",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "ilovebillionaires",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "prettyinropes",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "ripmyfishnets",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "irlgothgf",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "pwettable",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "HazbinHotelLiker",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "tinietoddler",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "nurseryprincess",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "bipolarnymph",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "youwontfindanotherme",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "bunccubus",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "superiorcatgirl",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "dadasfawn",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "tinsyprincess",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "flwuttershwy",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "ribbonpigtails",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "pacifiedbunny",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "kittybrained",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "kittenbrained",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "babyrattles",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "papasproperty",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "dadasproperty",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "leavemewithbruises",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "lwittlespace",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "babyiwantyouforever",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "nobodyelsecanhaveyou",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "agerwegressor",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "dadaslamb",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "pawpadkitten",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "pawpadkitty",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "buckshowot",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "catgirlbabi",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "CollaredAndOwned",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "gripmypigtails",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "catgirlbabi",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "ruffledskirt",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "masodere",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "dadasproperty",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "hauntedmoundfurry",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "catgirlbabi",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "ddlgbrat",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "catgirlbabi",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "gaggedpet",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "gaggedpuppy",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "gaggedkitty",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "gaggedkitten",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "collaredbrat",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "superiorcatgirl",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "attractingeboys",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "dadasproperty",
+            "intent": "username.inappropriate"
+          }
+        ],
+        "domains": {
+          "master_domain": {
+            "settings": {
+              "locale": "en",
+              "tag": "nlu-en",
+              "keepStopwords": true,
+              "nonefeatureValue": 1,
+              "nonedeltaMultiplier": 1.2,
+              "spellCheck": false,
+              "spellCheckDistance": 1,
+              "filterZeros": true,
+              "log": true
+            },
+            "features": {
+              "egotisticalcatgirl": 1,
+              "fragileneko": 1,
+              "daintyteen": 1,
+              "nicospuppi": 1,
+              "playinginhisblood": 1,
+              "ifearabandon": 1,
+              "femaiewarlock": 1,
+              "babifluff": 1,
+              "06warlock": 1,
+              "catgirlbabi": 1,
+              "lockmeinyourcloset": 1,
+              "meownipul": 1,
+              "pleasepatmyhead": 1,
+              "espeonfan73923052394": 1,
+              "babipawsz": 1,
+              "heii_ishspet": 1,
+              "waggingmytailforhim": 1,
+              "dieinthearmsofyou": 1,
+              "masoder": 1,
+              "clingtohim": 1,
+              "murderouslyobsess": 1,
+              "obsessivelyclingi": 1,
+              "meowcatgirlowo": 1,
+              "femcatto": 1,
+              "ifurnot18orolderdni": 1,
+              "furratari": 1,
+              "impbabi": 1,
+              "demongirlbabi": 1,
+              "eboyattract": 1,
+              "towddler": 1,
+              "superiorpickm": 1,
+              "dadasprwincess": 1,
+              "crazilyobsess": 1,
+              "puppygirlbabi": 1,
+              "everyonesfavoritefur": 1,
+              "meowingathim": 1,
+              "numberonecatgirl": 1,
+              "imsuperiorthanh": 1,
+              "healwaysprefersm": 1,
+              "dumbkittygf": 1,
+              "daintypetgf": 1,
+              "dadaslapwarm": 1,
+              "buryhimbythelak": 1,
+              "captivebrat": 1,
+              "constantsfangirl": 1,
+              "yankmycollar": 1,
+              "naivebrat": 1,
+              "kwindergarten": 1,
+              "dadascrybabi": 1,
+              "daintys": 1,
+              "pacifiersandstuffi": 1,
+              "toddlrkitti": 1,
+              "thighhighsockswear": 1,
+              "ilovebillionair": 1,
+              "prettyinrop": 1,
+              "ripmyfishnet": 1,
+              "irlgothgf": 1,
+              "pwettabl": 1,
+              "hazbinhotellik": 1,
+              "tinietoddl": 1,
+              "nurseryprincess": 1,
+              "bipolarnymph": 1,
+              "youwontfindanotherm": 1,
+              "bunccubus": 1,
+              "superiorcatgirl": 1,
+              "dadasfawn": 1,
+              "tinsyprincess": 1,
+              "flwuttershwi": 1,
+              "ribbonpigtail": 1,
+              "pacifiedbunni": 1,
+              "kittybrain": 1,
+              "kittenbrain": 1,
+              "babyrattl": 1,
+              "papasproperti": 1,
+              "dadasproperti": 1,
+              "leavemewithbruis": 1,
+              "lwittlespac": 1,
+              "babyiwantyouforev": 1,
+              "nobodyelsecanhaveyou": 1,
+              "agerwegressor": 1,
+              "dadaslamb": 1,
+              "pawpadkitten": 1,
+              "pawpadkitti": 1,
+              "buckshowot": 1,
+              "collaredandown": 1,
+              "gripmypigtail": 1,
+              "ruffledskirt": 1,
+              "hauntedmoundfurri": 1,
+              "ddlgbrat": 1,
+              "gaggedpet": 1,
+              "gaggedpuppi": 1,
+              "gaggedkitti": 1,
+              "gaggedkitten": 1,
+              "collaredbrat": 1,
+              "attractingeboy": 1
+            },
+            "intents": {
+              "username.inappropriate": 1
+            },
+            "intentFeatures": {
+              "username.inappropriate": {
+                "egotisticalcatgirl": 1,
+                "fragileneko": 1,
+                "daintyteen": 1,
+                "nicospuppi": 1,
+                "playinginhisblood": 1,
+                "ifearabandon": 1,
+                "femaiewarlock": 1,
+                "babifluff": 1,
+                "06warlock": 1,
+                "catgirlbabi": 1,
+                "lockmeinyourcloset": 1,
+                "meownipul": 1,
+                "pleasepatmyhead": 1,
+                "espeonfan73923052394": 1,
+                "babipawsz": 1,
+                "heii_ishspet": 1,
+                "waggingmytailforhim": 1,
+                "dieinthearmsofyou": 1,
+                "masoder": 1,
+                "clingtohim": 1,
+                "murderouslyobsess": 1,
+                "obsessivelyclingi": 1,
+                "meowcatgirlowo": 1,
+                "femcatto": 1,
+                "ifurnot18orolderdni": 1,
+                "furratari": 1,
+                "impbabi": 1,
+                "demongirlbabi": 1,
+                "eboyattract": 1,
+                "towddler": 1,
+                "superiorpickm": 1,
+                "dadasprwincess": 1,
+                "crazilyobsess": 1,
+                "puppygirlbabi": 1,
+                "everyonesfavoritefur": 1,
+                "meowingathim": 1,
+                "numberonecatgirl": 1,
+                "imsuperiorthanh": 1,
+                "healwaysprefersm": 1,
+                "dumbkittygf": 1,
+                "daintypetgf": 1,
+                "dadaslapwarm": 1,
+                "buryhimbythelak": 1,
+                "captivebrat": 1,
+                "constantsfangirl": 1,
+                "yankmycollar": 1,
+                "naivebrat": 1,
+                "kwindergarten": 1,
+                "dadascrybabi": 1,
+                "daintys": 1,
+                "pacifiersandstuffi": 1,
+                "toddlrkitti": 1,
+                "thighhighsockswear": 1,
+                "ilovebillionair": 1,
+                "prettyinrop": 1,
+                "ripmyfishnet": 1,
+                "irlgothgf": 1,
+                "pwettabl": 1,
+                "hazbinhotellik": 1,
+                "tinietoddl": 1,
+                "nurseryprincess": 1,
+                "bipolarnymph": 1,
+                "youwontfindanotherm": 1,
+                "bunccubus": 1,
+                "superiorcatgirl": 1,
+                "dadasfawn": 1,
+                "tinsyprincess": 1,
+                "flwuttershwi": 1,
+                "ribbonpigtail": 1,
+                "pacifiedbunni": 1,
+                "kittybrain": 1,
+                "kittenbrain": 1,
+                "babyrattl": 1,
+                "papasproperti": 1,
+                "dadasproperti": 1,
+                "leavemewithbruis": 1,
+                "lwittlespac": 1,
+                "babyiwantyouforev": 1,
+                "nobodyelsecanhaveyou": 1,
+                "agerwegressor": 1,
+                "dadaslamb": 1,
+                "pawpadkitten": 1,
+                "pawpadkitti": 1,
+                "buckshowot": 1,
+                "collaredandown": 1,
+                "gripmypigtail": 1,
+                "ruffledskirt": 1,
+                "hauntedmoundfurri": 1,
+                "ddlgbrat": 1,
+                "gaggedpet": 1,
+                "gaggedpuppi": 1,
+                "gaggedkitti": 1,
+                "gaggedkitten": 1,
+                "collaredbrat": 1,
+                "attractingeboy": 1
+              }
+            },
+            "featuresToIntent": {
+              "egotisticalcatgirl": [
+                "username.inappropriate"
+              ],
+              "fragileneko": [
+                "username.inappropriate"
+              ],
+              "daintyteen": [
+                "username.inappropriate"
+              ],
+              "nicospuppi": [
+                "username.inappropriate"
+              ],
+              "playinginhisblood": [
+                "username.inappropriate"
+              ],
+              "ifearabandon": [
+                "username.inappropriate"
+              ],
+              "femaiewarlock": [
+                "username.inappropriate"
+              ],
+              "babifluff": [
+                "username.inappropriate"
+              ],
+              "06warlock": [
+                "username.inappropriate"
+              ],
+              "catgirlbabi": [
+                "username.inappropriate"
+              ],
+              "lockmeinyourcloset": [
+                "username.inappropriate"
+              ],
+              "meownipul": [
+                "username.inappropriate"
+              ],
+              "pleasepatmyhead": [
+                "username.inappropriate"
+              ],
+              "espeonfan73923052394": [
+                "username.inappropriate"
+              ],
+              "babipawsz": [
+                "username.inappropriate"
+              ],
+              "heii_ishspet": [
+                "username.inappropriate"
+              ],
+              "waggingmytailforhim": [
+                "username.inappropriate"
+              ],
+              "dieinthearmsofyou": [
+                "username.inappropriate"
+              ],
+              "masoder": [
+                "username.inappropriate"
+              ],
+              "clingtohim": [
+                "username.inappropriate"
+              ],
+              "murderouslyobsess": [
+                "username.inappropriate"
+              ],
+              "obsessivelyclingi": [
+                "username.inappropriate"
+              ],
+              "meowcatgirlowo": [
+                "username.inappropriate"
+              ],
+              "femcatto": [
+                "username.inappropriate"
+              ],
+              "ifurnot18orolderdni": [
+                "username.inappropriate"
+              ],
+              "furratari": [
+                "username.inappropriate"
+              ],
+              "impbabi": [
+                "username.inappropriate"
+              ],
+              "demongirlbabi": [
+                "username.inappropriate"
+              ],
+              "eboyattract": [
+                "username.inappropriate"
+              ],
+              "towddler": [
+                "username.inappropriate"
+              ],
+              "superiorpickm": [
+                "username.inappropriate"
+              ],
+              "dadasprwincess": [
+                "username.inappropriate"
+              ],
+              "crazilyobsess": [
+                "username.inappropriate"
+              ],
+              "puppygirlbabi": [
+                "username.inappropriate"
+              ],
+              "everyonesfavoritefur": [
+                "username.inappropriate"
+              ],
+              "meowingathim": [
+                "username.inappropriate"
+              ],
+              "numberonecatgirl": [
+                "username.inappropriate"
+              ],
+              "imsuperiorthanh": [
+                "username.inappropriate"
+              ],
+              "healwaysprefersm": [
+                "username.inappropriate"
+              ],
+              "dumbkittygf": [
+                "username.inappropriate"
+              ],
+              "daintypetgf": [
+                "username.inappropriate"
+              ],
+              "dadaslapwarm": [
+                "username.inappropriate"
+              ],
+              "buryhimbythelak": [
+                "username.inappropriate"
+              ],
+              "captivebrat": [
+                "username.inappropriate"
+              ],
+              "constantsfangirl": [
+                "username.inappropriate"
+              ],
+              "yankmycollar": [
+                "username.inappropriate"
+              ],
+              "naivebrat": [
+                "username.inappropriate"
+              ],
+              "kwindergarten": [
+                "username.inappropriate"
+              ],
+              "dadascrybabi": [
+                "username.inappropriate"
+              ],
+              "daintys": [
+                "username.inappropriate"
+              ],
+              "pacifiersandstuffi": [
+                "username.inappropriate"
+              ],
+              "toddlrkitti": [
+                "username.inappropriate"
+              ],
+              "thighhighsockswear": [
+                "username.inappropriate"
+              ],
+              "ilovebillionair": [
+                "username.inappropriate"
+              ],
+              "prettyinrop": [
+                "username.inappropriate"
+              ],
+              "ripmyfishnet": [
+                "username.inappropriate"
+              ],
+              "irlgothgf": [
+                "username.inappropriate"
+              ],
+              "pwettabl": [
+                "username.inappropriate"
+              ],
+              "hazbinhotellik": [
+                "username.inappropriate"
+              ],
+              "tinietoddl": [
+                "username.inappropriate"
+              ],
+              "nurseryprincess": [
+                "username.inappropriate"
+              ],
+              "bipolarnymph": [
+                "username.inappropriate"
+              ],
+              "youwontfindanotherm": [
+                "username.inappropriate"
+              ],
+              "bunccubus": [
+                "username.inappropriate"
+              ],
+              "superiorcatgirl": [
+                "username.inappropriate"
+              ],
+              "dadasfawn": [
+                "username.inappropriate"
+              ],
+              "tinsyprincess": [
+                "username.inappropriate"
+              ],
+              "flwuttershwi": [
+                "username.inappropriate"
+              ],
+              "ribbonpigtail": [
+                "username.inappropriate"
+              ],
+              "pacifiedbunni": [
+                "username.inappropriate"
+              ],
+              "kittybrain": [
+                "username.inappropriate"
+              ],
+              "kittenbrain": [
+                "username.inappropriate"
+              ],
+              "babyrattl": [
+                "username.inappropriate"
+              ],
+              "papasproperti": [
+                "username.inappropriate"
+              ],
+              "dadasproperti": [
+                "username.inappropriate"
+              ],
+              "leavemewithbruis": [
+                "username.inappropriate"
+              ],
+              "lwittlespac": [
+                "username.inappropriate"
+              ],
+              "babyiwantyouforev": [
+                "username.inappropriate"
+              ],
+              "nobodyelsecanhaveyou": [
+                "username.inappropriate"
+              ],
+              "agerwegressor": [
+                "username.inappropriate"
+              ],
+              "dadaslamb": [
+                "username.inappropriate"
+              ],
+              "pawpadkitten": [
+                "username.inappropriate"
+              ],
+              "pawpadkitti": [
+                "username.inappropriate"
+              ],
+              "buckshowot": [
+                "username.inappropriate"
+              ],
+              "collaredandown": [
+                "username.inappropriate"
+              ],
+              "gripmypigtail": [
+                "username.inappropriate"
+              ],
+              "ruffledskirt": [
+                "username.inappropriate"
+              ],
+              "hauntedmoundfurri": [
+                "username.inappropriate"
+              ],
+              "ddlgbrat": [
+                "username.inappropriate"
+              ],
+              "gaggedpet": [
+                "username.inappropriate"
+              ],
+              "gaggedpuppi": [
+                "username.inappropriate"
+              ],
+              "gaggedkitti": [
+                "username.inappropriate"
+              ],
+              "gaggedkitten": [
+                "username.inappropriate"
+              ],
+              "collaredbrat": [
+                "username.inappropriate"
+              ],
+              "attractingeboy": [
+                "username.inappropriate"
+              ]
+            },
+            "neuralNetwork": {
+              "settings": {
+                "locale": "en",
+                "tag": "nlu-en",
+                "keepStopwords": true,
+                "nonefeatureValue": 1,
+                "nonedeltaMultiplier": 1.2,
+                "spellCheck": false,
+                "spellCheckDistance": 1,
+                "filterZeros": true,
+                "log": true
+              },
+              "features": [
+                "egotisticalcatgirl",
+                "fragileneko",
+                "daintyteen",
+                "nicospuppi",
+                "playinginhisblood",
+                "ifearabandon",
+                "femaiewarlock",
+                "babifluff",
+                "06warlock",
+                "catgirlbabi",
+                "lockmeinyourcloset",
+                "meownipul",
+                "pleasepatmyhead",
+                "espeonfan73923052394",
+                "babipawsz",
+                "heii_ishspet",
+                "waggingmytailforhim",
+                "dieinthearmsofyou",
+                "masoder",
+                "clingtohim",
+                "murderouslyobsess",
+                "obsessivelyclingi",
+                "meowcatgirlowo",
+                "femcatto",
+                "ifurnot18orolderdni",
+                "furratari",
+                "impbabi",
+                "demongirlbabi",
+                "eboyattract",
+                "towddler",
+                "superiorpickm",
+                "dadasprwincess",
+                "crazilyobsess",
+                "puppygirlbabi",
+                "everyonesfavoritefur",
+                "meowingathim",
+                "numberonecatgirl",
+                "imsuperiorthanh",
+                "healwaysprefersm",
+                "dumbkittygf",
+                "daintypetgf",
+                "dadaslapwarm",
+                "buryhimbythelak",
+                "captivebrat",
+                "constantsfangirl",
+                "yankmycollar",
+                "naivebrat",
+                "kwindergarten",
+                "dadascrybabi",
+                "daintys",
+                "pacifiersandstuffi",
+                "toddlrkitti",
+                "thighhighsockswear",
+                "ilovebillionair",
+                "prettyinrop",
+                "ripmyfishnet",
+                "irlgothgf",
+                "pwettabl",
+                "hazbinhotellik",
+                "tinietoddl",
+                "nurseryprincess",
+                "bipolarnymph",
+                "youwontfindanotherm",
+                "bunccubus",
+                "superiorcatgirl",
+                "dadasfawn",
+                "tinsyprincess",
+                "flwuttershwi",
+                "ribbonpigtail",
+                "pacifiedbunni",
+                "kittybrain",
+                "kittenbrain",
+                "babyrattl",
+                "papasproperti",
+                "dadasproperti",
+                "leavemewithbruis",
+                "lwittlespac",
+                "babyiwantyouforev",
+                "nobodyelsecanhaveyou",
+                "agerwegressor",
+                "dadaslamb",
+                "pawpadkitten",
+                "pawpadkitti",
+                "buckshowot",
+                "collaredandown",
+                "gripmypigtail",
+                "ruffledskirt",
+                "hauntedmoundfurri",
+                "ddlgbrat",
+                "gaggedpet",
+                "gaggedpuppi",
+                "gaggedkitti",
+                "gaggedkitten",
+                "collaredbrat",
+                "attractingeboy"
+              ],
+              "intents": [
+                "username.inappropriate"
+              ],
+              "perceptrons": [
+                [
+                  0.3071807026863098,
+                  0.4921610951423645,
+                  0.49461326003074646,
+                  0.4964863359928131,
+                  0.4978097081184387,
+                  0.3544386625289917,
+                  0.49875929951667786,
+                  0.49873051047325134,
+                  0.4082452952861786,
+                  0.31059351563453674,
+                  0.48694348335266113,
+                  0.43288153409957886,
+                  0.4104609191417694,
+                  0.46162086725234985,
+                  0.45839667320251465,
+                  0.38996782898902893,
+                  0.43122661113739014,
+                  0.45432382822036743,
+                  0.33360564708709717,
+                  0.4436984062194824,
+                  0.4344666600227356,
+                  0.42935529351234436,
+                  0.42413127422332764,
+                  0.41880589723587036,
+                  0.3793012201786041,
+                  0.4059494733810425,
+                  0.3989000916481018,
+                  0.3934377133846283,
+                  0.3874289095401764,
+                  0.3817727863788605,
+                  0.3890611529350281,
+                  0.37876999378204346,
+                  0.36844852566719055,
+                  0.36294203996658325,
+                  0.3592182993888855,
+                  0.3533024787902832,
+                  0.3473909795284271,
+                  0.34148913621902466,
+                  0.3356022834777832,
+                  0.3297353684902191,
+                  0.3238928020000458,
+                  0.31937795877456665,
+                  0.31360486149787903,
+                  0.307866632938385,
+                  0.3049856722354889,
+                  0.3017057776451111,
+                  0.3009621798992157,
+                  0.29540127515792847,
+                  0.28988075256347656,
+                  0.284403532743454,
+                  0.2821969985961914,
+                  0.27683570981025696,
+                  0.2748164236545563,
+                  0.26956507563591003,
+                  0.2643613815307617,
+                  0.25920772552490234,
+                  0.25410619378089905,
+                  0.24905872344970703,
+                  0.24406708776950836,
+                  0.2391328662633896,
+                  0.23425745964050293,
+                  0.22944232821464539,
+                  0.2246885448694229,
+                  0.21999715268611908,
+                  0.22464385628700256,
+                  0.2116299420595169,
+                  0.20711615681648254,
+                  0.20266784727573395,
+                  0.1982855200767517,
+                  0.19396954774856567,
+                  0.18972031772136688,
+                  0.18553800880908966,
+                  0.18142278492450714,
+                  0.17737475037574768,
+                  0.21211537718772888,
+                  0.1711970567703247,
+                  0.1673145592212677,
+                  0.16349932551383972,
+                  0.15975108742713928,
+                  0.1560695618391037,
+                  0.1524544507265091,
+                  0.14890536665916443,
+                  0.14542187750339508,
+                  0.14200353622436523,
+                  0.14722362160682678,
+                  0.1438640058040619,
+                  0.14857037365436554,
+                  0.15130363404750824,
+                  0.15505632758140564,
+                  0.15805912017822266,
+                  0.15467695891857147,
+                  0.15134483575820923,
+                  0.14806300401687622,
+                  0.14483171701431274,
+                  0.14120452105998993,
+                  14.07711466512505
+                ]
+              ]
+            }
+          }
+        }
+      }
+    },
+    "intentDomains": {},
+    "extraSentences": [
+      [
+        "en",
+        "egotisticalcatgirl"
+      ],
+      [
+        "en",
+        "fragileneko"
+      ],
+      [
+        "en",
+        "daintyteen"
+      ],
+      [
+        "en",
+        "nicospuppy"
+      ],
+      [
+        "en",
+        "playinginhisblood"
+      ],
+      [
+        "en",
+        "ifearabandonment"
+      ],
+      [
+        "en",
+        "femaIewarlock"
+      ],
+      [
+        "en",
+        "babifluff"
+      ],
+      [
+        "en",
+        "06warlock"
+      ],
+      [
+        "en",
+        "catgirlbabi"
+      ],
+      [
+        "en",
+        "06warlock"
+      ],
+      [
+        "en",
+        "catgirlbabi"
+      ],
+      [
+        "en",
+        "lockmeinyourcloset"
+      ],
+      [
+        "en",
+        "ifearabandonment"
+      ],
+      [
+        "en",
+        "meownipulation"
+      ],
+      [
+        "en",
+        "catgirlbabi"
+      ],
+      [
+        "en",
+        "pleasepatmyhead"
+      ],
+      [
+        "en",
+        "catgirlbabi"
+      ],
+      [
+        "en",
+        "egotisticalcatgirl"
+      ],
+      [
+        "en",
+        "espeonfan73923052394"
+      ],
+      [
+        "en",
+        "babipawsz"
+      ],
+      [
+        "en",
+        "catgirlbabi"
+      ],
+      [
+        "en",
+        "heII_ishspet"
+      ],
+      [
+        "en",
+        "WaggingMyTailForHim"
+      ],
+      [
+        "en",
+        "heII_ishspet"
+      ],
+      [
+        "en",
+        "WaggingMyTailForHim"
+      ],
+      [
+        "en",
+        "heII_ishspet"
+      ],
+      [
+        "en",
+        "meownipulation"
+      ],
+      [
+        "en",
+        "dieinthearmsofyou"
+      ],
+      [
+        "en",
+        "masodere"
+      ],
+      [
+        "en",
+        "clingtohim"
+      ],
+      [
+        "en",
+        "catgirlbabi"
+      ],
+      [
+        "en",
+        "MurderouslyObsessive"
+      ],
+      [
+        "en",
+        "ObsessivelyClingy"
+      ],
+      [
+        "en",
+        "meowcatgirlowo"
+      ],
+      [
+        "en",
+        "femcatto"
+      ],
+      [
+        "en",
+        "catgirlbabi"
+      ],
+      [
+        "en",
+        "IfUrNot18OrOlderDNI"
+      ],
+      [
+        "en",
+        "catgirlbabi"
+      ],
+      [
+        "en",
+        "furratary"
+      ],
+      [
+        "en",
+        "catgirlbabi"
+      ],
+      [
+        "en",
+        "impbabi"
+      ],
+      [
+        "en",
+        "demongirlbabi"
+      ],
+      [
+        "en",
+        "IfUrNot18OrOlderDNI"
+      ],
+      [
+        "en",
+        "catgirlbabi"
+      ],
+      [
+        "en",
+        "masodere"
+      ],
+      [
+        "en",
+        "ifearabandonment"
+      ],
+      [
+        "en",
+        "eboyattraction"
+      ],
+      [
+        "en",
+        "towddler"
+      ],
+      [
+        "en",
+        "superiorpickme"
+      ],
+      [
+        "en",
+        "dadasprwincess"
+      ],
+      [
+        "en",
+        "crazilyobsessive"
+      ],
+      [
+        "en",
+        "catgirlbabi"
+      ],
+      [
+        "en",
+        "puppygirlbabi"
+      ],
+      [
+        "en",
+        "IfUrNot18OrOlderDNI"
+      ],
+      [
+        "en",
+        "pleasepatmyhead"
+      ],
+      [
+        "en",
+        "EveryonesFavoriteFur"
+      ],
+      [
+        "en",
+        "MeowingAtHim"
+      ],
+      [
+        "en",
+        "numberonecatgirl"
+      ],
+      [
+        "en",
+        "imsuperiorthanher"
+      ],
+      [
+        "en",
+        "HeAlwaysPrefersMe"
+      ],
+      [
+        "en",
+        "dumbkittygf"
+      ],
+      [
+        "en",
+        "daintypetgf"
+      ],
+      [
+        "en",
+        "superiorpickme"
+      ],
+      [
+        "en",
+        "catgirlbabi"
+      ],
+      [
+        "en",
+        "DadasLapWarmer"
+      ],
+      [
+        "en",
+        "buryhimbythelake"
+      ],
+      [
+        "en",
+        "captivebrat"
+      ],
+      [
+        "en",
+        "catgirlbabi"
+      ],
+      [
+        "en",
+        "constantsfangirl"
+      ],
+      [
+        "en",
+        "IfUrNot18OrOlderDNI"
+      ],
+      [
+        "en",
+        "yankmycollar"
+      ],
+      [
+        "en",
+        "catgirlbabi"
+      ],
+      [
+        "en",
+        "dadasprwincess"
+      ],
+      [
+        "en",
+        "catgirlbabi"
+      ],
+      [
+        "en",
+        "naivebrat"
+      ],
+      [
+        "en",
+        "kwindergartener"
+      ],
+      [
+        "en",
+        "dadascrybaby"
+      ],
+      [
+        "en",
+        "daintysized"
+      ],
+      [
+        "en",
+        "catgirlbabi"
+      ],
+      [
+        "en",
+        "pacifiersandstuffies"
+      ],
+      [
+        "en",
+        "toddlrkitti"
+      ],
+      [
+        "en",
+        "catgirlbabi"
+      ],
+      [
+        "en",
+        "ThighHighSocksWearer"
+      ],
+      [
+        "en",
+        "ilovebillionaires"
+      ],
+      [
+        "en",
+        "prettyinropes"
+      ],
+      [
+        "en",
+        "ripmyfishnets"
+      ],
+      [
+        "en",
+        "irlgothgf"
+      ],
+      [
+        "en",
+        "pwettable"
+      ],
+      [
+        "en",
+        "HazbinHotelLiker"
+      ],
+      [
+        "en",
+        "tinietoddler"
+      ],
+      [
+        "en",
+        "nurseryprincess"
+      ],
+      [
+        "en",
+        "bipolarnymph"
+      ],
+      [
+        "en",
+        "youwontfindanotherme"
+      ],
+      [
+        "en",
+        "bunccubus"
+      ],
+      [
+        "en",
+        "superiorcatgirl"
+      ],
+      [
+        "en",
+        "dadasfawn"
+      ],
+      [
+        "en",
+        "tinsyprincess"
+      ],
+      [
+        "en",
+        "flwuttershwy"
+      ],
+      [
+        "en",
+        "ribbonpigtails"
+      ],
+      [
+        "en",
+        "pacifiedbunny"
+      ],
+      [
+        "en",
+        "kittybrained"
+      ],
+      [
+        "en",
+        "kittenbrained"
+      ],
+      [
+        "en",
+        "babyrattles"
+      ],
+      [
+        "en",
+        "papasproperty"
+      ],
+      [
+        "en",
+        "dadasproperty"
+      ],
+      [
+        "en",
+        "leavemewithbruises"
+      ],
+      [
+        "en",
+        "lwittlespace"
+      ],
+      [
+        "en",
+        "babyiwantyouforever"
+      ],
+      [
+        "en",
+        "nobodyelsecanhaveyou"
+      ],
+      [
+        "en",
+        "agerwegressor"
+      ],
+      [
+        "en",
+        "dadaslamb"
+      ],
+      [
+        "en",
+        "pawpadkitten"
+      ],
+      [
+        "en",
+        "pawpadkitty"
+      ],
+      [
+        "en",
+        "buckshowot"
+      ],
+      [
+        "en",
+        "catgirlbabi"
+      ],
+      [
+        "en",
+        "CollaredAndOwned"
+      ],
+      [
+        "en",
+        "gripmypigtails"
+      ],
+      [
+        "en",
+        "catgirlbabi"
+      ],
+      [
+        "en",
+        "ruffledskirt"
+      ],
+      [
+        "en",
+        "masodere"
+      ],
+      [
+        "en",
+        "dadasproperty"
+      ],
+      [
+        "en",
+        "hauntedmoundfurry"
+      ],
+      [
+        "en",
+        "catgirlbabi"
+      ],
+      [
+        "en",
+        "ddlgbrat"
+      ],
+      [
+        "en",
+        "catgirlbabi"
+      ],
+      [
+        "en",
+        "gaggedpet"
+      ],
+      [
+        "en",
+        "gaggedpuppy"
+      ],
+      [
+        "en",
+        "gaggedkitty"
+      ],
+      [
+        "en",
+        "gaggedkitten"
+      ],
+      [
+        "en",
+        "collaredbrat"
+      ],
+      [
+        "en",
+        "superiorcatgirl"
+      ],
+      [
+        "en",
+        "attractingeboys"
+      ],
+      [
+        "en",
+        "dadasproperty"
+      ]
+    ]
+  },
+  "ner": {
+    "settings": {
+      "tag": "ner",
+      "entityPreffix": "%",
+      "entitySuffix": "%"
+    },
+    "rules": {}
+  },
+  "nlgManager": {
+    "settings": {
+      "tag": "nlg-manager"
+    },
+    "responses": {}
+  },
+  "actionManager": {
+    "settings": {
+      "tag": "action-manager"
+    },
+    "actions": {}
+  },
+  "slotManager": {}
+}
