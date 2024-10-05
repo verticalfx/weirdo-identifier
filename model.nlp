@@ -417,10 +417,91 @@
           "silycatloverz": {
             "intent": "username.inappropriate",
             "domain": "default"
+          },
+          "6rnodedloverg": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "rnodedlov": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "litlepoliceboyay": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "arnanlov": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "litlepoliceboywewo": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "spoilingrnykiten": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "6zenuxfang": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "baornochalov": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "lilraedx": {
+            "intent": "username.inappropriate",
+            "domain": "default"
+          },
+          "zenux": {
+            "intent": "username.safe",
+            "domain": "default"
+          },
+          "rnydadownsplsdon": {
+            "intent": "username.safe",
+            "domain": "default"
+          },
+          "zenuxfaustin": {
+            "intent": "username.safe",
+            "domain": "default"
+          },
+          "zenuxingtirn": {
+            "intent": "username.safe",
+            "domain": "default"
+          },
+          "6realzenuxt": {
+            "intent": "username.safe",
+            "domain": "default"
+          },
+          "zenuxishirn": {
+            "intent": "username.safe",
+            "domain": "default"
+          },
+          "zenuxi": {
+            "intent": "username.safe",
+            "domain": "default"
+          },
+          "lezenux": {
+            "intent": "username.safe",
+            "domain": "default"
+          },
+          "xzenygarnertttx": {
+            "intent": "username.safe",
+            "domain": "default"
+          },
+          "raedisloveraedislif": {
+            "intent": "username.safe",
+            "domain": "default"
+          },
+          "kingzenux": {
+            "intent": "username.safe",
+            "domain": "default"
           }
         },
         "intentDict": {
-          "username.inappropriate": "default"
+          "username.inappropriate": "default",
+          "username.safe": "default"
         },
         "sentences": [
           {
@@ -1097,6 +1178,146 @@
             "domain": "default",
             "utterance": "silycatloverzs",
             "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "6rnodedloverg",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "rnodedlover",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "litlepoliceboyay",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "arnanlover",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "litlepoliceboywewo",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "spoilingrnykitens",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "6zenuxfang",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "baornochalover",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "lilraedx",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "rnodedlover",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "litlepoliceboyay",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "arnanlover",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "litlepoliceboywewo",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "spoilingrnykitens",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "6zenuxfang",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "baornochalover",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "lilraedx",
+            "intent": "username.inappropriate"
+          },
+          {
+            "domain": "default",
+            "utterance": "zenux",
+            "intent": "username.safe"
+          },
+          {
+            "domain": "default",
+            "utterance": "rnydadownsplsdonate",
+            "intent": "username.safe"
+          },
+          {
+            "domain": "default",
+            "utterance": "zenuxfaustine",
+            "intent": "username.safe"
+          },
+          {
+            "domain": "default",
+            "utterance": "zenuxingtirne",
+            "intent": "username.safe"
+          },
+          {
+            "domain": "default",
+            "utterance": "6realzenuxt",
+            "intent": "username.safe"
+          },
+          {
+            "domain": "default",
+            "utterance": "zenuxishirn",
+            "intent": "username.safe"
+          },
+          {
+            "domain": "default",
+            "utterance": "zenuxi",
+            "intent": "username.safe"
+          },
+          {
+            "domain": "default",
+            "utterance": "lezenux",
+            "intent": "username.safe"
+          },
+          {
+            "domain": "default",
+            "utterance": "xzenygarnertttx",
+            "intent": "username.safe"
+          },
+          {
+            "domain": "default",
+            "utterance": "raedisloveraedislife",
+            "intent": "username.safe"
+          },
+          {
+            "domain": "default",
+            "utterance": "kingzenux",
+            "intent": "username.safe"
           }
         ],
         "domains": {
@@ -1208,10 +1429,31 @@
               "gaggedkitten": 1,
               "collaredbrat": 1,
               "attractingeboy": 1,
-              "silycatloverz": 1
+              "silycatloverz": 1,
+              "6rnodedloverg": 1,
+              "rnodedlov": 1,
+              "litlepoliceboyay": 1,
+              "arnanlov": 1,
+              "litlepoliceboywewo": 1,
+              "spoilingrnykiten": 1,
+              "6zenuxfang": 1,
+              "baornochalov": 1,
+              "lilraedx": 1,
+              "zenux": 1,
+              "rnydadownsplsdon": 1,
+              "zenuxfaustin": 1,
+              "zenuxingtirn": 1,
+              "6realzenuxt": 1,
+              "zenuxishirn": 1,
+              "zenuxi": 1,
+              "lezenux": 1,
+              "xzenygarnertttx": 1,
+              "raedisloveraedislif": 1,
+              "kingzenux": 1
             },
             "intents": {
-              "username.inappropriate": 1
+              "username.inappropriate": 1,
+              "username.safe": 1
             },
             "intentFeatures": {
               "username.inappropriate": {
@@ -1310,7 +1552,29 @@
                 "gaggedkitten": 1,
                 "collaredbrat": 1,
                 "attractingeboy": 1,
-                "silycatloverz": 1
+                "silycatloverz": 1,
+                "6rnodedloverg": 1,
+                "rnodedlov": 1,
+                "litlepoliceboyay": 1,
+                "arnanlov": 1,
+                "litlepoliceboywewo": 1,
+                "spoilingrnykiten": 1,
+                "6zenuxfang": 1,
+                "baornochalov": 1,
+                "lilraedx": 1
+              },
+              "username.safe": {
+                "zenux": 1,
+                "rnydadownsplsdon": 1,
+                "zenuxfaustin": 1,
+                "zenuxingtirn": 1,
+                "6realzenuxt": 1,
+                "zenuxishirn": 1,
+                "zenuxi": 1,
+                "lezenux": 1,
+                "xzenygarnertttx": 1,
+                "raedisloveraedislif": 1,
+                "kingzenux": 1
               }
             },
             "featuresToIntent": {
@@ -1601,6 +1865,66 @@
               ],
               "silycatloverz": [
                 "username.inappropriate"
+              ],
+              "6rnodedloverg": [
+                "username.inappropriate"
+              ],
+              "rnodedlov": [
+                "username.inappropriate"
+              ],
+              "litlepoliceboyay": [
+                "username.inappropriate"
+              ],
+              "arnanlov": [
+                "username.inappropriate"
+              ],
+              "litlepoliceboywewo": [
+                "username.inappropriate"
+              ],
+              "spoilingrnykiten": [
+                "username.inappropriate"
+              ],
+              "6zenuxfang": [
+                "username.inappropriate"
+              ],
+              "baornochalov": [
+                "username.inappropriate"
+              ],
+              "lilraedx": [
+                "username.inappropriate"
+              ],
+              "zenux": [
+                "username.safe"
+              ],
+              "rnydadownsplsdon": [
+                "username.safe"
+              ],
+              "zenuxfaustin": [
+                "username.safe"
+              ],
+              "zenuxingtirn": [
+                "username.safe"
+              ],
+              "6realzenuxt": [
+                "username.safe"
+              ],
+              "zenuxishirn": [
+                "username.safe"
+              ],
+              "zenuxi": [
+                "username.safe"
+              ],
+              "lezenux": [
+                "username.safe"
+              ],
+              "xzenygarnertttx": [
+                "username.safe"
+              ],
+              "raedisloveraedislif": [
+                "username.safe"
+              ],
+              "kingzenux": [
+                "username.safe"
               ]
             },
             "neuralNetwork": {
@@ -1711,110 +2035,270 @@
                 "gaggedkitten",
                 "collaredbrat",
                 "attractingeboy",
-                "silycatloverz"
+                "silycatloverz",
+                "6rnodedloverg",
+                "rnodedlov",
+                "litlepoliceboyay",
+                "arnanlov",
+                "litlepoliceboywewo",
+                "spoilingrnykiten",
+                "6zenuxfang",
+                "baornochalov",
+                "lilraedx",
+                "zenux",
+                "rnydadownsplsdon",
+                "zenuxfaustin",
+                "zenuxingtirn",
+                "6realzenuxt",
+                "zenuxishirn",
+                "zenuxi",
+                "lezenux",
+                "xzenygarnertttx",
+                "raedisloveraedislif",
+                "kingzenux"
               ],
               "intents": [
-                "username.inappropriate"
+                "username.inappropriate",
+                "username.safe"
               ],
               "perceptrons": [
                 [
-                  0.3035818040370941,
-                  0.48876771330833435,
-                  0.4912870228290558,
-                  0.49322664737701416,
-                  0.4946158826351166,
-                  0.35119450092315674,
-                  0.49567848443984985,
-                  0.49571356177330017,
-                  0.4046625792980194,
-                  0.3086278438568115,
-                  0.4841996133327484,
-                  0.42979755997657776,
-                  0.40789616107940674,
-                  0.4591723382472992,
-                  0.4560030400753021,
-                  0.3868839740753174,
-                  0.4283214211463928,
-                  0.45215746760368347,
-                  0.3315953314304352,
-                  0.44162842631340027,
-                  0.43246662616729736,
-                  0.42740312218666077,
-                  0.4222259223461151,
-                  0.41694650053977966,
-                  0.37702903151512146,
-                  0.4041776657104492,
-                  0.39717456698417664,
-                  0.3917543590068817,
-                  0.3858068287372589,
-                  0.38019105792045593,
-                  0.38720616698265076,
-                  0.37699079513549805,
-                  0.3669669032096863,
-                  0.36148813366889954,
-                  0.35781005024909973,
-                  0.35193029046058655,
-                  0.3460538685321808,
-                  0.3401864767074585,
-                  0.33433330059051514,
-                  0.3284992277622223,
-                  0.32268884778022766,
-                  0.3181968033313751,
-                  0.3124545216560364,
-                  0.3067464828491211,
-                  0.30387184023857117,
-                  0.30061423778533936,
-                  0.2998667061328888,
-                  0.2943345904350281,
-                  0.2888421416282654,
-                  0.28339239954948425,
-                  0.2811899483203888,
-                  0.27585527300834656,
-                  0.2738398611545563,
-                  0.2686142921447754,
-                  0.26343587040901184,
-                  0.2583068311214447,
-                  0.2532293200492859,
-                  0.24820534884929657,
-                  0.24323660135269165,
-                  0.23832471668720245,
-                  0.23347117006778717,
-                  0.22867730259895325,
-                  0.22394424676895142,
-                  0.21927312016487122,
-                  0.22381697595119476,
-                  0.210941880941391,
-                  0.20644697546958923,
-                  0.20201700925827026,
-                  0.19765260815620422,
-                  0.19335412979125977,
-                  0.18912188708782196,
-                  0.18495617806911469,
-                  0.18085713684558868,
-                  0.17682485282421112,
-                  0.21131888031959534,
-                  0.17067186534404755,
-                  0.16680407524108887,
-                  0.16300317645072937,
-                  0.15926890075206757,
-                  0.15560099482536316,
-                  0.1519991159439087,
-                  0.1484629064798355,
-                  0.14499199390411377,
-                  0.14158587157726288,
-                  0.14677472412586212,
-                  0.14342767000198364,
-                  0.1481066197156906,
-                  0.15083159506320953,
-                  0.15456220507621765,
-                  0.1575472056865692,
-                  0.15417908132076263,
-                  0.15086056292057037,
-                  0.14759205281734467,
-                  0.14437371492385864,
-                  0.14076364040374756,
-                  0.13715888559818268,
-                  14.081180193211628
+                  1.5457340478897095,
+                  1.6263726949691772,
+                  1.639568567276001,
+                  1.6524877548217773,
+                  1.6651136875152588,
+                  1.582934021949768,
+                  1.682167649269104,
+                  1.6938977241516113,
+                  1.5707908868789673,
+                  1.6114485263824463,
+                  1.7089574337005615,
+                  1.62099289894104,
+                  1.6592100858688354,
+                  1.7239524126052856,
+                  1.7314505577087402,
+                  1.6046394109725952,
+                  1.6354988813400269,
+                  1.7560110092163086,
+                  1.5954257249832153,
+                  1.7563056945800781,
+                  1.7557728290557861,
+                  1.7599831819534302,
+                  1.7637548446655273,
+                  1.7670881748199463,
+                  1.6730573177337646,
+                  1.7601667642593384,
+                  1.7579569816589355,
+                  1.7594809532165527,
+                  1.7532745599746704,
+                  1.7538529634475708,
+                  1.7166582345962524,
+                  1.7133703231811523,
+                  1.7539775371551514,
+                  1.7500370740890503,
+                  1.752230167388916,
+                  1.7506849765777588,
+                  1.748741865158081,
+                  1.7464065551757812,
+                  1.74368417263031,
+                  1.7405802011489868,
+                  1.7371002435684204,
+                  1.732480764389038,
+                  1.7283655405044556,
+                  1.7238924503326416,
+                  1.7178961038589478,
+                  1.7152141332626343,
+                  1.710226058959961,
+                  1.7050713300704956,
+                  1.699585199356079,
+                  1.6937739849090576,
+                  1.6880958080291748,
+                  1.6818878650665283,
+                  1.6763423681259155,
+                  1.6697596311569214,
+                  1.6628825664520264,
+                  1.6557178497314453,
+                  1.6482731103897095,
+                  1.6405550241470337,
+                  1.6325709819793701,
+                  1.6243284940719604,
+                  1.615834355354309,
+                  1.6070964336395264,
+                  1.5981218814849854,
+                  1.588917851448059,
+                  1.534093976020813,
+                  1.5694599151611328,
+                  1.5596778392791748,
+                  1.5496948957443237,
+                  1.539517879486084,
+                  1.5291543006896973,
+                  1.5186110734939575,
+                  1.507896065711975,
+                  1.4970157146453857,
+                  1.4859776496887207,
+                  1.5102030038833618,
+                  1.4675565958023071,
+                  1.4561554193496704,
+                  1.4446210861206055,
+                  1.4329602718353271,
+                  1.4211796522140503,
+                  1.4092861413955688,
+                  1.397286057472229,
+                  1.385185956954956,
+                  1.3729923963546753,
+                  1.374460220336914,
+                  1.3625420331954956,
+                  1.364117980003357,
+                  1.361634612083435,
+                  1.3628966808319092,
+                  1.3634161949157715,
+                  1.352413535118103,
+                  1.3413141965866089,
+                  1.3301239013671875,
+                  1.3188477754592896,
+                  1.3090204000473022,
+                  1.298122525215149,
+                  1.2865180969238281,
+                  1.3717063665390015,
+                  1.3671945333480835,
+                  1.362633228302002,
+                  1.3580228090286255,
+                  1.3533638715744019,
+                  1.3486562967300415,
+                  1.3439007997512817,
+                  1.339097261428833,
+                  -12.92153263092041,
+                  -12.89117431640625,
+                  -12.864572525024414,
+                  -12.834237098693848,
+                  -12.801783561706543,
+                  -12.767234802246094,
+                  -12.730612754821777,
+                  -12.691937446594238,
+                  -12.651238441467285,
+                  -12.608540534973145,
+                  -12.563871383666992,
+                  12.822816259019072
+                ],
+                [
+                  -2.8137781620025635,
+                  -2.4716057777404785,
+                  -2.4143877029418945,
+                  -2.377638339996338,
+                  -2.3262579441070557,
+                  -2.7193942070007324,
+                  -2.243015766143799,
+                  -2.212080717086792,
+                  -2.6916568279266357,
+                  -2.922330856323242,
+                  -2.106218099594116,
+                  -2.3648808002471924,
+                  -2.0469248294830322,
+                  -1.9743112325668335,
+                  -1.9362707138061523,
+                  -2.4387054443359375,
+                  -2.2866077423095703,
+                  -1.824538230895996,
+                  -1.984951376914978,
+                  -1.7782466411590576,
+                  -1.7456727027893066,
+                  -1.7137340307235718,
+                  -1.693174123764038,
+                  -1.663984775543213,
+                  -1.9087071418762207,
+                  -1.6295632123947144,
+                  -1.6027573347091675,
+                  -1.5760347843170166,
+                  -1.5424081087112427,
+                  -1.5176092386245728,
+                  -1.6052535772323608,
+                  -1.542472004890442,
+                  -1.4660589694976807,
+                  -1.4431439638137817,
+                  -1.4241151809692383,
+                  -1.4028332233428955,
+                  -1.3873283863067627,
+                  -1.367672324180603,
+                  -1.3479704856872559,
+                  -1.3339952230453491,
+                  -1.3157386779785156,
+                  -1.298133373260498,
+                  -1.2810708284378052,
+                  -1.2639254331588745,
+                  -1.2517890930175781,
+                  -1.2357127666473389,
+                  -1.221785068511963,
+                  -1.2067925930023193,
+                  -1.1953926086425781,
+                  -1.1813799142837524,
+                  -1.1704366207122803,
+                  -1.1573100090026855,
+                  -1.1468919515609741,
+                  -1.1345655918121338,
+                  -1.1247222423553467,
+                  -1.1131168603897095,
+                  -1.103882074356079,
+                  -1.0929251909255981,
+                  -1.0843206644058228,
+                  -1.0756622552871704,
+                  -1.0659822225570679,
+                  -1.0580143928527832,
+                  -1.048802137374878,
+                  -1.041512370109558,
+                  -1.034218430519104,
+                  -1.027374505996704,
+                  -1.0196465253829956,
+                  -1.013312578201294,
+                  -1.0071886777877808,
+                  -1.001302719116211,
+                  -0.9956748485565186,
+                  -0.9903185963630676,
+                  -0.9852412939071655,
+                  -0.979665219783783,
+                  -0.9862780570983887,
+                  -0.9697203040122986,
+                  -0.9636498689651489,
+                  -0.9574159383773804,
+                  -0.9510250687599182,
+                  -0.9444841742515564,
+                  -0.9378000497817993,
+                  -0.9309788346290588,
+                  -0.9240272045135498,
+                  -0.9169515371322632,
+                  -0.9097579717636108,
+                  -0.9024527072906494,
+                  -0.8950417637825012,
+                  -0.8867853283882141,
+                  -0.8791331648826599,
+                  -0.8713940978050232,
+                  -0.8635736107826233,
+                  -0.8556771874427795,
+                  -0.8477103114128113,
+                  -0.8396784067153931,
+                  -0.8315592408180237,
+                  -0.8233793377876282,
+                  -0.8151746988296509,
+                  -0.8726032972335815,
+                  -0.8697215914726257,
+                  -0.8667879104614258,
+                  -0.863802969455719,
+                  -0.8607670664787292,
+                  -0.8576809167861938,
+                  -0.8545448780059814,
+                  -0.8513596653938293,
+                  13.34282398223877,
+                  13.327802658081055,
+                  13.295920372009277,
+                  13.26189136505127,
+                  13.225733757019043,
+                  13.18747329711914,
+                  13.147125244140625,
+                  13.104719161987305,
+                  13.06027889251709,
+                  13.013834953308105,
+                  12.965414047241211,
+                  0.9827741349225395
                 ]
               ]
             }
@@ -2363,6 +2847,118 @@
       [
         "en",
         "silycatloverzs"
+      ],
+      [
+        "en",
+        "6rnodedloverg"
+      ],
+      [
+        "en",
+        "rnodedlover"
+      ],
+      [
+        "en",
+        "litlepoliceboyay"
+      ],
+      [
+        "en",
+        "arnanlover"
+      ],
+      [
+        "en",
+        "litlepoliceboywewo"
+      ],
+      [
+        "en",
+        "spoilingrnykitens"
+      ],
+      [
+        "en",
+        "6zenuxfang"
+      ],
+      [
+        "en",
+        "baornochalover"
+      ],
+      [
+        "en",
+        "lilraedx"
+      ],
+      [
+        "en",
+        "rnodedlover"
+      ],
+      [
+        "en",
+        "litlepoliceboyay"
+      ],
+      [
+        "en",
+        "arnanlover"
+      ],
+      [
+        "en",
+        "litlepoliceboywewo"
+      ],
+      [
+        "en",
+        "spoilingrnykitens"
+      ],
+      [
+        "en",
+        "6zenuxfang"
+      ],
+      [
+        "en",
+        "baornochalover"
+      ],
+      [
+        "en",
+        "lilraedx"
+      ],
+      [
+        "en",
+        "zenux"
+      ],
+      [
+        "en",
+        "rnydadownsplsdonate"
+      ],
+      [
+        "en",
+        "zenuxfaustine"
+      ],
+      [
+        "en",
+        "zenuxingtirne"
+      ],
+      [
+        "en",
+        "6realzenuxt"
+      ],
+      [
+        "en",
+        "zenuxishirn"
+      ],
+      [
+        "en",
+        "zenuxi"
+      ],
+      [
+        "en",
+        "lezenux"
+      ],
+      [
+        "en",
+        "xzenygarnertttx"
+      ],
+      [
+        "en",
+        "raedisloveraedislife"
+      ],
+      [
+        "en",
+        "kingzenux"
       ]
     ]
   },
